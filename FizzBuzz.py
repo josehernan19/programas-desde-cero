@@ -1,4 +1,4 @@
-print("BIENVENIDO AL PROGRAMA FIZZBUZZ :) ")
+print("BIENVENIDO AL PROGRAMA FIZZBUZZ ")
 a=int(input("introduce un numero por favor "))
 b=int(input("introduzca otro numero "))
 for i in range(a,b) or range(b,a):
