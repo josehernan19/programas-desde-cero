@@ -1,4 +1,4 @@
-print('bienvenidos a este programa')
+print('bienvenidos a este programa, te diremos cual es el resto y cociente de tu division')
 n=int(input('por favor introduzca un numero '))
 m=int(input('por favor introduzca otro '))
 while m == 0:
