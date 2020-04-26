@@ -1,3 +1,4 @@
+print("BIENVENIDOS, TE DEVOLVEREMOS EN UNA LISTA LOS NUMEROS MULTIPLOS DE 3 Y 5 ")
 a=int(input("introduce un numero "))
 b= range(1,a)
 c=[]
